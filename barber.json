@@ -1,0 +1,200 @@
+[
+    {
+        "sliderImage":"img1",
+        "profileImage":"profileImage1",
+        "Name":"Hafiz ishaq",
+        "ShopName":"BarberRing",
+        "Rating":"4.0",
+        "services":[
+            {
+                "servicesName":"Full Body Message",
+                "price":"1500"
+            },{
+                "servicesName":"Head Message",
+                "price":"200"
+            },{
+                "servicesName":"Shoulder",
+                "price":"300"
+            },{
+                "servicesName":"Leg",
+                "price":"200"
+            }
+        ],
+        "Description":"I will Offer Best Services With Best affordable Prices",
+        "Location":"DHA phase 6 Near Cafe Memory"
+    },{
+        "sliderImage":"img1",
+        "profileImage":"profileImage1",
+        "Name":"Hafiz ishaq",
+        "ShopName":"BarberRing",
+        "Rating":"4.0",
+        "services":[
+            {
+                "servicesName":"Full Body Message",
+                "price":"1500"
+            },{
+                "servicesName":"Head Message",
+                "price":"200"
+            },{
+                "servicesName":"Shoulder",
+                "price":"300"
+            },{
+                "servicesName":"Leg",
+                "price":"200"
+            }
+        ],
+        "Description":"I will Offer Best Services With Best affordable Prices",
+        "Location":"DHA phase 6 Near Cafe Memory"
+    },
+    {
+        "sliderImage":"img1",
+        "profileImage":"profileImage1",
+        "Name":"Hafiz ishaq",
+        "ShopName":"BarberRing",
+        "Rating":"4.0",
+        "services":[
+            {
+                "servicesName":"Full Body Message",
+                "price":"1500"
+            },{
+                "servicesName":"Head Message",
+                "price":"200"
+            },{
+                "servicesName":"Shoulder",
+                "price":"300"
+            },{
+                "servicesName":"Leg",
+                "price":"200"
+            }
+        ],
+        "Description":"I will Offer Best Services With Best affordable Prices",
+        "Location":"DHA phase 6 Near Cafe Memory"
+        
+    },
+    {
+        "sliderImage":"img1",
+        "profileImage":"profileImage1",
+        "Name":"Hafiz ishaq",
+        "ShopName":"BarberRing",
+        "Rating":"4.0",
+        "services":[
+            {
+                "servicesName":"Full Body Message",
+                "price":"1500"
+            },{
+                "servicesName":"Head Message",
+                "price":"200"
+            },{
+                "servicesName":"Shoulder",
+                "price":"300"
+            },{
+                "servicesName":"Leg",
+                "price":"200"
+            }
+        ],
+        "Description":"I will Offer Best Services With Best affordable Prices",
+        "Location":"DHA phase 6 Near Cafe Memory"
+        
+    },
+    {
+        "sliderImage":"img1",
+        "profileImage":"profileImage1",
+        "Name":"Hafiz ishaq",
+        "ShopName":"BarberRing",
+        "Rating":"4.0",
+        "services":[
+            {
+                "servicesName":"Full Body Message",
+                "price":"1500"
+            },{
+                "servicesName":"Head Message",
+                "price":"200"
+            },{
+                "servicesName":"Shoulder",
+                "price":"300"
+            },{
+                "servicesName":"Leg",
+                "price":"200"
+            }
+        ],
+        "Description":"I will Offer Best Services With Best affordable Prices",
+        "Location":"DHA phase 6 Near Cafe Memory"
+        
+    },
+    {
+        "sliderImage":"img1",
+        "profileImage":"profileImage1",
+        "Name":"Hafiz ishaq",
+        "ShopName":"BarberRing",
+        "Rating":"4.0",
+        "services":[
+            {
+                "servicesName":"Full Body Message",
+                "price":"1500"
+            },{
+                "servicesName":"Head Message",
+                "price":"200"
+            },{
+                "servicesName":"Shoulder",
+                "price":"300"
+            },{
+                "servicesName":"Leg",
+                "price":"200"
+            }
+        ],
+        "Description":"I will Offer Best Services With Best affordable Prices",
+        "Location":"DHA phase 6 Near Cafe Memory"
+        
+    },
+    {
+        "sliderImage":"img1",
+        "profileImage":"profileImage1",
+        "Name":"Hafiz ishaq",
+        "ShopName":"BarberRing",
+        "Rating":"4.0",
+        "services":[
+            {
+                "servicesName":"Full Body Message",
+                "price":"1500"
+            },{
+                "servicesName":"Head Message",
+                "price":"200"
+            },{
+                "servicesName":"Shoulder",
+                "price":"300"
+            },{
+                "servicesName":"Leg",
+                "price":"200"
+            }
+        ],
+        "Description":"I will Offer Best Services With Best affordable Prices",
+        "Location":"DHA phase 6 Near Cafe Memory"
+        
+    },
+    {
+        "sliderImage":"img1",
+        "profileImage":"profileImage1",
+        "Name":"Hafiz ishaq",
+        "ShopName":"BarberRing",
+        "Rating":"4.0",
+        "services":[
+            {
+                "servicesName":"Full Body Message",
+                "price":"1500"
+            },{
+                "servicesName":"Head Message",
+                "price":"200"
+            },{
+                "servicesName":"Shoulder",
+                "price":"300"
+            },{
+                "servicesName":"Leg",
+                "price":"200"
+            }
+        ],
+        
+        "Description":"I will Offer Best Services With Best affordable Prices",
+        "Location":"DHA phase 6 Near Cafe Memory"
+        
+    }
+]

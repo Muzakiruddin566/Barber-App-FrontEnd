@@ -1,0 +1,49 @@
+.image-aboutus-banner {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("../images/b1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    padding-top: 110px;
+    padding-bottom:110px;
+ }
+ 
+  .image-aboutus-sm-banner {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("../images/b1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    padding-top: 30px;
+    padding-bottom:30px;
+ }
+.lg-text {
+    font-size:52px;
+    font-weight: 600;
+    text-transform: none;
+    color:#fff;
+}
+.image-aboutus-para {
+    color:#fff;
+}
+.paddingTB60 {
+    padding-top:60px;
+    padding-bottom:60px;
+}
+.site-heading h3{
+    font-size : 40px;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+.aboutus-border {
+    background: #e1e1e1;
+    height: 1px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 45px;
+}
+
+
+/* font CSS */
+

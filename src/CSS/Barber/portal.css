@@ -1,0 +1,148 @@
+
+.container-bar{
+    width: 331px;
+    height: 100vh !important;
+    overflow-y: auto;
+    overflow-x: hidden;
+    position: relative;
+    background-color: black;
+    color: white;
+}
+.col-4-sidebar{
+    flex: 0 0 auto;
+    width: 28.333333%;
+}
+.menu-items{
+    padding-top: 20px;
+    /* height: 10vh; */
+    padding-left: 10px;
+}
+.logo-item{
+    display: inline-block;
+    font-size: 1.5rem;
+    padding-top: inherit;
+    padding-left: inherit;
+}
+.menu-title{
+    display: inline-block;
+    padding-top: inherit;
+    font-size: 0.8125rem;
+    font-weight: 500;
+    padding-left: 20px;
+}
+.menu-dropDown{
+    display: inline-flex;
+    padding-left: 20px;
+    cursor: pointer;
+}
+.menu-dropDown button,.cancel-button button,.open-button{
+    background-color: transparent;
+    color: wheat;
+    border: none;
+}
+.barber_image{
+    position: absolute;
+    width: 70px;
+    height: 50px;
+    bottom:  15px;
+    left: 15px;
+}
+.barber_image img{
+    width: 60px;
+    height: 55px;
+    border-radius: 50%;
+}
+.client_image{
+    display: inline-flex;
+}
+.client_image img{
+    width: 57px;
+    height: 51px;
+    border: 1px solid;
+    border-radius: 50%;
+    margin-left: 11px;
+    border-color: #100f0f52;
+}
+.client-info{
+    position: absolute;
+    bottom:  15px;
+    left: 15px;
+    /* border: 1px solid saddlebrown ; */
+    height: 13%;
+    width: 91%;
+    text-decoration:underline overline  solid white;
+    text-decoration-thickness: inherit;
+}
+.barber_Name{
+    position: absolute;
+    /* height: 50px; */
+    padding-top: 1px;
+    bottom:  15px;
+    left: 85px;
+}
+.client_Name{
+    /* bottom: 30px; */
+    display: inline-flex;
+    position: absolute;
+    top: 50px;
+    left: 85px;
+}
+.cancel-button{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.cancel-button .logo{
+    display: block;
+    height: 2vh;
+    font-size: 2.1rem;
+}
+
+.up:hover{
+    padding-top: 5px;
+}
+.sub-menu{
+    padding-left: 30px;
+    padding-top: 5px;
+}
+.sub-menu .sub-item{
+    padding-top: 13px;
+}
+.height{
+    height: 20vh !important;
+}
+.display-none{
+    display: none !important; 
+}
+.display-line{
+    display: inline-block !important; 
+}
+.Menu-logo{
+    font-size: 1.5rem;
+    padding-left: 20px;
+}
+.bar{
+    position: absolute;
+    top: 0;
+    padding-left: 15px !important;
+}
+@media (max-width:560px) {
+    .sm-hight{
+        height: 15vh !important;
+    }
+    .Menu-logo{
+        top: 0;
+        padding-top: 0px !important;
+
+    }
+    .heading-sm{
+        padding-top: 2px;
+        font-size: 0.89rem !important;
+        margin-left: 30px !important;
+    }
+}
+
+@media (max-width:768px) {
+    .tablebody{
+        overflow-x: auto !important;
+    }
+}

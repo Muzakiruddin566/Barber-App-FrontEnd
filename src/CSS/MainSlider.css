@@ -1,0 +1,240 @@
+.searchBar{
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    z-index: 1;
+}
+.searchBar h1{
+    font-weight: 700;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fff;
+}
+
+.search {
+    position: relative;
+    box-shadow: 0 0 40px rgba(51, 51, 51, .1)
+}
+
+.search input {
+    height: 50px;
+    text-indent: 25px;
+    border: 2px solid #d6d4d4
+}
+
+.search input:focus {
+    box-shadow: none;
+    border: 2px solid blue
+}
+
+.search .fa-search {
+    position: absolute;
+    top: 20px;
+    left: 16px
+}
+
+.search button {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 50px;
+    width: 110px;
+    
+}
+.bg-img:hover{
+    background:rgba(0, 0, 0, 0.8) !important;
+}
+
+.marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  .marketing h2 {
+    font-weight: 400;
+  }
+  .marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
+  
+  
+ 
+  .featurette-divider {
+    margin: 5rem 0; 
+  }
+  
+ 
+  .featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+  }
+ 
+
+  .heading-featurette-divider{
+      margin: 25px 0;
+  }
+
+
+  .bg-account-img{
+    background-image: url('../images/b1.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg-client-account-img{
+    background-image: url('../images/c2.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg-account-img:hover{
+    background:rgb(18 18 30 / 77%);
+}
+
+.bg-client-account-img:hover{
+  background:rgb(18 18 30 / 77%);
+}
+
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+
+/* tablet view */
+@media (max-width:848px){
+  .search button{
+      width: 80px !important;
+  }
+}
+/* Larger mobile */
+@media (max-width:425px ){
+  
+  .searchBar {
+      position: absolute;
+      top: 16% !important;
+      left: 70px !important;
+      z-index: 1;
+  }
+  .search button {
+      position: relative;
+      top: 0px;
+      right: 0px;
+      height: 40px;
+      width: 100% !important;
+      margin-top: 8px;
+  }
+}
+/* mediam mobile */
+@media (max-width:375px){
+  
+  .searchBar {
+      position: absolute;
+      top: 27% !important;
+      left: 50px !important;
+      z-index: 1;
+  }
+  .search button {
+      position: relative;
+      top: 0px;
+      right: 0px;
+      height: 40px;
+      width: 100% !important;
+      margin-top: 8px;
+  }
+}
+/* small mobile view */
+@media (max-width:320px){
+  
+  .searchBar {
+      position: absolute;
+      top: 23% !important;
+      left: 35px !important;
+      z-index: 1;
+  }
+  .search button {
+      position: relative;
+      top: 0px;
+      right: 0px;
+      height: 40px;
+      width: 100% !important;
+      margin-top: 8px;
+  }
+}
+
+
+
+.carousel-caption {
+  position: initial;
+  z-index: 10;
+  padding: 5rem 8rem;
+  color: rgba(78, 77, 77, 0.856);
+  text-align: center;
+  font-size: 1.2rem;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 2rem
+}
+
+@media(max-width:767px) {
+  .carousel-caption {
+      position: initial;
+      z-index: 10;
+      padding: 3rem 2rem;
+      color: rgba(78, 77, 77, 0.856);
+      text-align: center;
+      font-size: 0.7rem;
+      font-style: italic;
+      font-weight: bold;
+      line-height: 1.5rem
+  }
+}
+
+.carousel-caption img {
+  width: 6rem;
+  border-radius: 5rem;
+  margin-top: 2rem
+}
+
+@media(max-width:767px) {
+  .carousel-caption img {
+      width: 4rem;
+      border-radius: 4rem;
+      margin-top: 1rem
+  }
+}
+
+#image-caption {
+  font-style: normal;
+  font-size: 1rem;
+  margin-top: 0.5rem
+}
+
+@media(max-width:767px) {
+  #image-caption {
+      font-style: normal;
+      font-size: 0.6rem;
+      margin-top: 0.5rem
+  }
+}
+
+
+@media(max-width:767px) {
+  /* i {
+      padding: 0.8rem
+  } */
+}
+
+.carousel-control-prev {
+  justify-content: flex-start
+}
+
+.carousel-control-next {
+  justify-content: flex-end
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  transition: none;
+  opacity: unset
+}

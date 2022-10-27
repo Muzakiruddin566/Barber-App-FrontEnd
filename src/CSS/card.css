@@ -1,0 +1,93 @@
+.barber-cards{
+    width: 100%;
+    height: 320px;
+    box-shadow: 0px 0px 20px 0px;
+}
+.BarberPost-image{
+    width: 100%;
+    height: 160px;
+}
+.BarberPost-image img{
+    height: 100%;
+    width: 100%;
+}
+.Barber-Body{
+    margin-top: 2px;
+    width: 100%;
+    height: 125px;
+    padding-left: 5px;
+}
+.Barber-Body p{
+    font-weight: bold;
+}
+.token-active{
+    width: 100%;
+    height: 33px;
+    background-color: #dbacacd1;
+}
+.stars{
+    color: yellow;
+}
+.About-Barber-title{
+    font-size: 20px;
+    line-height: 28px;
+    padding-bottom: 25px;
+}
+.Barber-Shop-Content{
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 30px;
+    line-height: 5px;
+}
+.profile-barber{
+    display: block;
+    padding-left: 2px;
+}
+
+.barber-profile-image{
+    display: inline-block;
+    width: 150px;
+    height:150px;
+    
+}
+.barber-profile-image img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%
+}
+.barber-profile-content{
+    display: inline-block;
+    padding-left: 15px;
+}
+.Barber-status{
+    display: inline-block;
+    padding-left: 4px;
+    border: 1px solid green;
+    border-radius: 50px ;
+}
+.Barber-status span{
+    padding: 10px;
+}
+.Barber-info-content{
+    display: block;
+    margin-top: 2px;
+}
+.Token-Number{
+    margin-top: 15px;
+    width: 100%;
+    padding: 10px;
+    /* border: 1px solid; */
+}
+.Token-Number button{
+    width: 100%;
+}
+.badge{
+    /* border: 0.5px solid green; */
+    margin-left: 5px;
+    padding: 15px;
+}
+.barber-profile-rating{
+    margin-top: 15px;
+    margin-left: 10px;
+    padding-left: 25px;
+}

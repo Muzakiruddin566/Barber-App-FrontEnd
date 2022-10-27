@@ -1,0 +1,40 @@
+/* @import url('https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css'); */
+.form-control-input {
+  -webkit-transition: none;
+  transition: none;
+  width: 60px;
+  height: 60px;
+  text-align: center
+}
+
+.form-control-input:focus {
+  color: #3F4254;
+  background-color: #ffffff;
+  border-color: #884377;
+  outline: 0;
+}
+
+.form-control-input.form-control-solid {
+  background-color: #a5bdd5;
+  border-color: #F3F6F9;
+  color: #3F4254;
+  transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.form-control-input.form-control-solid:active,
+.form-control-input.form-control-solid.active,
+.form-control-input.form-control-solid:focus,
+.form-control-input-control-solid.focus {
+  background-color: #EBEDF3;
+  border-color: #EBEDF3;
+  color: #3F4254;
+  transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+.cardwidth{
+    width: 50% !important;
+}
+@media (max-width: 320px){
+    .cardwidth{
+        width: 70% !important;
+    }
+}
