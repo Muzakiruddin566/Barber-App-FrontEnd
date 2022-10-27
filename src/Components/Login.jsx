@@ -53,7 +53,6 @@ const handlerEmail = (e)=>{
   }));
   setValid(false);
   if(!regExp.test(e.target.value)){
-    console.log("invalid input");
     setValid(true);
   }
 }

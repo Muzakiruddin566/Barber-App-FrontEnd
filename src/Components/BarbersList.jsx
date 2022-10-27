@@ -65,7 +65,6 @@ export default function BarbersList() {
 
     const handleSubmit = async (e) => {
         e.preventDefault();
-        console.log(Location.lang,Location.long);
         setShow(false);
         const newArray = Barbers.Barber.filter((res) => {
             let earth = 6378.137;

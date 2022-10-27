@@ -18,7 +18,6 @@ export default function BarberCategory() {
       setShow(true));
       
     }else{
-      console.log(myState);
       navigate("/Barber/Register/Services");
     }
   }
